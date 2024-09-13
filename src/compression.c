@@ -1,4 +1,4 @@
-#include "compression.h"
+#include "../include/compression.h"
 #include <string.h>
 
 size_t compressRLE(const uint8_t *input, size_t inputSize, uint8_t *output,

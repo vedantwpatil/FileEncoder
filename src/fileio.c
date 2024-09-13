@@ -1,4 +1,4 @@
-#include "fileio.h"
+#include "../include/fileio.h"
 #include <stdio.h>
 
 // Used to open a file and returns a FILE pointer
